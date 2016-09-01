@@ -1,0 +1,5 @@
+C# is imperative because there are loops and  if/else statements.
+it is object oriented beause it can make classes and has inheritence 
+
+
+source: www.ecma-international.org/publications/files/ECMA-ST/Ecma-334.pdf
